@@ -1,0 +1,26 @@
+.theme-light {
+    --primary-color: #7c3aed;
+    --primary-accent-color: #6d28d9;
+    --page-background-color: #fff;
+    --text-default-color: #1f2937;
+    --text-muted-color: #6b7280;
+    --border-color: #d1d5db;
+}
+
+.theme-dark {
+    --primary-color: #7c3aed;
+    --primary-accent-color: #6d28d9;
+    --page-background-color: #111827;
+    --text-default-color: #f3f4f6;
+    --text-muted-color: #6b7280;
+    --border-color: #4b5563;
+}
+
+.theme-gray {
+    --primary-color: #7c3aed;
+    --primary-accent-color: #6d28d9;
+    --page-background-color: #7a7a7a;
+    --text-default-color: #f3f4f6;
+    --text-muted-color: #6b7280;
+    --border-color: ##4b5563;
+}
